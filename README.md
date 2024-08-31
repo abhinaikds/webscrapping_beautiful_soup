@@ -1,2 +1,2 @@
-# nithish_webscrapping
-Nitish singh 
+web scrapped Aimbition box website for the company list, rating, reveiw
+
