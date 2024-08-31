@@ -1,2 +1,2 @@
-web scrapped Aimbition box website for the company list, rating, reveiw
+web scrapped Ambition box website for the company list, rating, reveiw
 
